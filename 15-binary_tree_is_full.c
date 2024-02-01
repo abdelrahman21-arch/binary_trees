@@ -33,3 +33,4 @@ int binary_tree_is_full(const binary_tree_t *tree)
 		return (0);
 	return (is_full_recursive(tree));
 }
+
