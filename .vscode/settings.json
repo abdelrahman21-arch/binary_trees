@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "binary_trees.h": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "*.tcc": "c"
+    }
+}
